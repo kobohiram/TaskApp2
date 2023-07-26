@@ -6,5 +6,6 @@
     <string name="input_content_hint">内容</string>
     <string name="button_date_text">----/--/--</string>
     <string name="button_time_text">--:--</string>
+    <string name="input_category_hint">カテゴリー</string>
     <string name="button_done_text">決定</string>
 </resources>
